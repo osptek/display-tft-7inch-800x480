@@ -1,0 +1,10 @@
+id: YDP700B001-V1
+category: displays
+size: "7"
+panel: tft
+resolution: 800x480
+interface: [rgb]
+driver: EK73002AB2x1+EK9716BD4x1
+touch: null
+outline: 164.90 x 100.0 mm
+active_area: 153.84 x 85.63 mm
